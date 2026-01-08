@@ -1,0 +1,27 @@
+Descripción
+Se deben especificar las preguntas de negocio que va a responder el proyecto de ciencia de datos.
+Se deben plantear al menos 5 preguntas de negocio. Estas preguntas debe presentarlas con algún framework de storytelling.
+Las preguntas de negocio que se plantean no deben ser preguntas que se respondan con una medida estadística concreta, deben ser preguntas que se responden empleando varias técnicas de analítica de datos.
+El dataset debe contener datos con las siguientes características.
+Temporales (fechas)
+Datos categóricos
+Datos continuos
+Espaciales (ciudad, lugares, sectores, latitud y longitud)
+El dataset debe ser de datos de la industria en que se desempeñan. Este proyecto servirá como un primer exploratorio para su tésis de maestría.
+Usted debe realizar un proceso de limpieza y transformación de los datos.
+Determine el porcentaje de ruido (data que no sirve para el análisis) que hay en su dataset.
+Muestre los pasos a seguir en la limpieza de datos.
+En su proyecto debe crear nuevas métricas que no están especificadas en su dataset. Las métricas propuestas deben ser basadas en una revisión literaria (incluir las referencias a estos trabajos). Por ejemplo: usted puede tener un dataset de transacciones y puede derivar métricas como se especifica en este paper:
+https://dergipark.org.tr/en/download/article-file/951937
+Analítica usando métricas y medidas estadísticas con una análisis univariado y bivariado.
+Visualización
+Asegúrese de incluir aquellas visualizaciones que permitan llegar a conclusiones importantes sobre el dataset que está analizando.
+Use Faceted Plots para responder alguna de las preguntas de negocio planteadas, analice las diferencias encontradas. 
+Si fuera pertinente muestre heatmaps que permitan observar patrones relacionados a su análisis.
+Asegúrese de usar adecuadamente las etiquetas de los ejes y las escalas.
+ 
+
+Entregables
+
+Todos los notebooks que empleó para realizar su proyecto de ciencia de datos.
+Diapositivas con la presentación del análisis realizados que incluya las preguntas de negocio a responder y las visualizaciones que permitan llegar a la conclusión de los resultados.
